@@ -5,7 +5,7 @@
 
 - 🔭 We're currently working on **ROS**
 
-- 💬 Ask me about **ROS and 3D Printers**
+- 💬 Ask me about **Computer Vision, ROS and 3D Printers**
 
 - 📫 How to reach me **analizgorsel@gmail.com**
 
