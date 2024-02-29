@@ -5,11 +5,11 @@
 
 - 🔭 We're currently working on **ROS**
 
-- 💬 Ask me about **Computer Vision, ROS and 3D Printers**
+- 💬 Ask us about **Computer Vision, ROS and 3D Printers**
 
-- 📫 How to reach me **analizgorsel@gmail.com**
+- 📫 How to reach us **analizgorsel@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://instagram.com/gorselanaliz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorselanaliz_" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/eZAtUHtHjm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eZAtUHtHjm" height="30" width="40" /></a>
